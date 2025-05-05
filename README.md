@@ -4,5 +4,4 @@
 
 The list of every Lego Star Wars sets I ever owned.
 
-Link: https://starwarsanimations44.github.io/lego
-
+Link: https://starwarsanimations44.github.io/lego/lego.html
