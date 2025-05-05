@@ -3,7 +3,7 @@ function initialize() {
 		a => {
 			a.href =
 				"https://www.lego.com/en-us/service/buildinginstructions/" +
-				a.href.split("/")[a.href.split("/").length()]
+				a.href.split("/")[a.href.split("/").length() - 1]
 			;
 		}
 		);
